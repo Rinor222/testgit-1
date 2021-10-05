@@ -1,0 +1,39 @@
+.employeur {
+  text-align: right;
+}
+.date {
+  position: absolute;
+}
+
+h1 {
+  background-color: #000;
+  text-align: center;
+  letter-spacing: 5px;
+  border: 4px ridge rgba(241, 9, 179, 0.644);
+}
+h3 {
+  position: relative;
+  text-decoration: underline;
+}
+h4 {
+  text-decoration: underline black;
+}
+ul {
+  position: relative;
+  border: ridge 4px;
+}
+ol {
+  position: relative;
+}
+img {
+  border: rgb(236, 0, 0) ridge;
+  width: 200px;
+  height: 200px;
+  position: sticky;
+  left: 95%;
+  right: 5%;
+}
+* {
+  color: rgba(241, 9, 179, 0.644);
+  background-color: rgb(143, 255, 121);
+}
